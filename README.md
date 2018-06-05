@@ -1,5 +1,5 @@
 # hosea-coin-ethereum
-
+```
 npm install -g truffle
 
 mkdir hosea-coin; cd hosea-coin;
@@ -60,3 +60,4 @@ truffle compile
 # 部署 migrate 别名 deploy
 truffle deploy
 
+```
